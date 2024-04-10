@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\services\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\services\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:49:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:47:08.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Services\\StudentsService.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Services\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Services\\StudentsService.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Services\\StudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:46:28.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Services\\IStudentsService.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Services\\IStudentsService.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Services\\IStudentsService.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Services\\IStudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:44:51.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

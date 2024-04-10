@@ -262,3 +262,4 @@ C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debu
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Microsoft.JSInterop.dll
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\obj\Debug\net8.0\Universi.96D3A93B.Up2Date
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\obj\Debug\net8.0\UniversityApiBackend.sourcelink.json
