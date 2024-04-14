@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using UniversityApiBackend.DataAccess;
 using UniversityApiBackend.Helpers;
 using UniversityApiBackend.Models.DataModels;
 
@@ -11,9 +12,12 @@ namespace UniversityApiBackend.Controllers
     [ApiController]
     public class AccountController : Controller
     {
+        private readonly UniversityDBContext _context;
         private readonly JwtSettings _jwtSettings;
-        public AccountController(JwtSettings jwtSettings)
+        public AccountController(UniversityDBContext context, JwtSettings jwtSettings)
         {
+
+            _context = context;
             _jwtSettings = jwtSettings;
 
         }
@@ -37,11 +41,13 @@ namespace UniversityApiBackend.Controllers
         };
 
         [HttpPost]
-        public IActionResult GetToken(UserLogins userLogins)
+        public async IActionResult GetToken(UserLogins userLogins)
         {
             try
             {
                 var Token = new UserTokens();
+
+
                 var Valid = Logins.Any(user => user.Name.Equals(userLogins.UserName, StringComparison.OrdinalIgnoreCase));
 
                 if (Valid)
