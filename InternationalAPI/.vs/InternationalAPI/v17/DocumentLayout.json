@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\resources\\controllers\\postcontroller.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\resources\\controllers\\postcontroller.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\resources\\entities\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\resources\\entities\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\resources\\entities\\sharedresource.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\resources\\entities\\sharedresource.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\resources\\entities\\sharedresource.es-es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\resources\\entities\\sharedresource.es-es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\entities\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\entities\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|c:\\users\\roberto\\documents\\.net\\backend\\internationalapi\\internationalapi\\resources\\controllers\\postcontroller.es-es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D02F2030-4A21-4A26-A36A-5EF6E021D98D}|InternationalAPI\\InternationalAPI.csproj|solutionrelative:internationalapi\\resources\\controllers\\postcontroller.es-es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedResource.es-ES.resx",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.es-ES.resx",
+              "RelativeDocumentMoniker": "InternationalAPI\\Resources\\Entities\\SharedResource.es-ES.resx",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.es-ES.resx",
+              "RelativeToolTip": "InternationalAPI\\Resources\\Entities\\SharedResource.es-ES.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T16:40:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedResource.fr-FR.resx",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.fr-FR.resx",
+              "RelativeDocumentMoniker": "InternationalAPI\\Resources\\Entities\\SharedResource.fr-FR.resx",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.fr-FR.resx",
+              "RelativeToolTip": "InternationalAPI\\Resources\\Entities\\SharedResource.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T16:35:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "InternationalAPI\\Resources\\Entities\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Entities\\SharedResource.en-US.resx",
+              "RelativeToolTip": "InternationalAPI\\Resources\\Entities\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T16:33:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.fr-FR.resx",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Controllers\\PostController.fr-FR.resx",
+              "RelativeDocumentMoniker": "InternationalAPI\\Resources\\Controllers\\PostController.fr-FR.resx",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Controllers\\PostController.fr-FR.resx",
+              "RelativeToolTip": "InternationalAPI\\Resources\\Controllers\\PostController.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T16:28:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostController.es-ES.resx",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Controllers\\PostController.es-ES.resx",
+              "RelativeDocumentMoniker": "InternationalAPI\\Resources\\Controllers\\PostController.es-ES.resx",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Resources\\Controllers\\PostController.es-ES.resx",
+              "RelativeToolTip": "InternationalAPI\\Resources\\Controllers\\PostController.es-ES.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T16:28:17.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Entities\\SharedResource.cs",
+              "RelativeDocumentMoniker": "InternationalAPI\\Entities\\SharedResource.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Entities\\SharedResource.cs",
+              "RelativeToolTip": "InternationalAPI\\Entities\\SharedResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:19:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "InternationalAPI\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Controllers\\PostController.cs",
+              "RelativeToolTip": "InternationalAPI\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:16:43.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InternationalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\InternationalAPI\\InternationalAPI\\Program.cs",
+              "RelativeToolTip": "InternationalAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:08:59.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

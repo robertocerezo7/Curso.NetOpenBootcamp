@@ -41,24 +41,33 @@ namespace UniversityApiBackend.Controllers
         };
 
         [HttpPost]
-        public async IActionResult GetToken(UserLogins userLogins)
+        public IActionResult GetToken(UserLogins userLogin)
         {
             try
             {
                 var Token = new UserTokens();
 
 
-                var Valid = Logins.Any(user => user.Name.Equals(userLogins.UserName, StringComparison.OrdinalIgnoreCase));
+                // TODO:
+                // Search a user in context with LINQ
+                var searchUser =  (from user in _context.Users
+                                  where user.Name == userLogin.UserName && user.Password == userLogin.Password
+                                  select user).FirstOrDefault();                
 
-                if (Valid)
+
+                // TODO: Chante to searchUser
+                //var Valid = Logins.Any(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
+
+
+                if (searchUser != null)
                 {
-                    var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogins.UserName, StringComparison.OrdinalIgnoreCase));
+                    //var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
 
                     Token = JwtHelpers.GenTokenKey(new UserTokens()
                     {
-                        UserName = user.Name,
-                        EmailId = user.Email,
-                        Id = user.Id,
+                        UserName = searchUser.Name,
+                        EmailId = searchUser.Email,
+                        Id = searchUser.Id,
                         GuidId = Guid.NewGuid(),
                         
 
