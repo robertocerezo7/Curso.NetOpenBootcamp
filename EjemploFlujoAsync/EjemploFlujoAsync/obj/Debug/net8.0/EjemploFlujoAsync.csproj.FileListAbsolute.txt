@@ -1,0 +1,15 @@
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.AssemblyInfo.cs
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.sourcelink.json
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\bin\Debug\net8.0\EjemploFlujoAsync.exe
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\bin\Debug\net8.0\EjemploFlujoAsync.deps.json
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\bin\Debug\net8.0\EjemploFlujoAsync.runtimeconfig.json
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\bin\Debug\net8.0\EjemploFlujoAsync.dll
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\bin\Debug\net8.0\EjemploFlujoAsync.pdb
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.dll
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\refint\EjemploFlujoAsync.dll
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.pdb
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\EjemploFlujoAsync.genruntimeconfig.cache
+C:\Users\Roberto\Documents\.NET\Backend\EjemploFlujoAsync\EjemploFlujoAsync\obj\Debug\net8.0\ref\EjemploFlujoAsync.dll

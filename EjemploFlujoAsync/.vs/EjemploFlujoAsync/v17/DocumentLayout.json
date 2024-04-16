@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|c:\\users\\roberto\\documents\\.net\\backend\\ejemploflujoasync\\ejemploflujoasync\\calculadorahipotecasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|solutionrelative:ejemploflujoasync\\calculadorahipotecasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|c:\\users\\roberto\\documents\\.net\\backend\\ejemploflujoasync\\ejemploflujoasync\\calculadorahipotecaasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|solutionrelative:ejemploflujoasync\\calculadorahipotecaasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|c:\\users\\roberto\\documents\\.net\\backend\\ejemploflujoasync\\ejemploflujoasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D277FB59-1FB4-409A-9127-7BBE6FEA55DD}|EjemploFlujoAsync\\EjemploFlujoAsync.csproj|solutionrelative:ejemploflujoasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraHipotecaAsync.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\CalculadoraHipotecaAsync.cs",
+              "RelativeDocumentMoniker": "EjemploFlujoAsync\\CalculadoraHipotecaAsync.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\CalculadoraHipotecaAsync.cs",
+              "RelativeToolTip": "EjemploFlujoAsync\\CalculadoraHipotecaAsync.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:27:34.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraHipotecaSync.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\CalculadoraHipotecaSync.cs",
+              "RelativeDocumentMoniker": "EjemploFlujoAsync\\CalculadoraHipotecaSync.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\CalculadoraHipotecaSync.cs",
+              "RelativeToolTip": "EjemploFlujoAsync\\CalculadoraHipotecaSync.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:07:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploFlujoAsync\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\EjemploFlujoAsync\\EjemploFlujoAsync\\Program.cs",
+              "RelativeToolTip": "EjemploFlujoAsync\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:02:08.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
