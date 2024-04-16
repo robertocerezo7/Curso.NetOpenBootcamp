@@ -1,0 +1,38 @@
+2024-04-16 17:31:15.166 +02:00 [INF] HTTP GET /WeatherForecast responded 401 in 6.9170 ms
+2024-04-16 17:31:25.197 +02:00 [INF] HTTP POST /api/Account/GetToken responded 200 in 856.3941 ms
+2024-04-16 17:31:37.595 +02:00 [INF] HTTP GET /WeatherForecast responded 403 in 1.5748 ms
+2024-04-16 17:32:30.475 +02:00 [INF] HTTP POST /api/Account/GetToken responded 200 in 692.2372 ms
+2024-04-16 17:32:39.308 +02:00 [VRB] WeatherForecastController - Get - Trace Level Log
+2024-04-16 17:32:39.311 +02:00 [DBG] WeatherForecastController - Get - Debug Level Log
+2024-04-16 17:32:39.313 +02:00 [INF] WeatherForecastController - Get - Information Level Log
+2024-04-16 17:32:39.314 +02:00 [WRN] WeatherForecastController - Get - Warning Level Log
+2024-04-16 17:32:39.315 +02:00 [FTL] WeatherForecastController - Get - Critical Level Log
+2024-04-16 17:32:39.324 +02:00 [INF] HTTP GET /WeatherForecast responded 200 in 21.2928 ms
+2024-04-16 17:46:32.549 +02:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-04-16 17:46:32.578 +02:00 [INF] warn: 16/04/2024 17:46:32.577 CoreEventId.SensitiveDataLoggingEnabledWarning[10400] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-04-16 17:46:32.843 +02:00 [INF] info: 16/04/2024 17:46:32.843 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (13ms) [Parameters=[@__userLogin_UserName_0='string' (Size = 50), @__userLogin_Password_1='string' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+      SELECT TOP(1) [u].[Id], [u].[CreatedAt], [u].[CreatedBy], [u].[DeleteAt], [u].[DeleteBy], [u].[Email], [u].[IsDeleted], [u].[LastName], [u].[Name], [u].[Password], [u].[UpdateAt], [u].[UpdateBy]
+      FROM [Users] AS [u]
+      WHERE [u].[Name] = @__userLogin_UserName_0 AND [u].[Password] = @__userLogin_Password_1
+2024-04-16 17:46:32.910 +02:00 [INF] HTTP POST /api/Account/GetToken responded 200 in 748.2177 ms
+2024-04-16 17:47:35.019 +02:00 [VRB] WeatherForecastController - Get - Trace Level Log
+2024-04-16 17:47:35.021 +02:00 [DBG] WeatherForecastController - Get - Debug Level Log
+2024-04-16 17:47:35.022 +02:00 [INF] WeatherForecastController - Get - Information Level Log
+2024-04-16 17:47:35.023 +02:00 [WRN] WeatherForecastController - Get - Warning Level Log
+2024-04-16 17:47:35.024 +02:00 [FTL] WeatherForecastController - Get - Critical Level Log
+2024-04-16 17:47:35.034 +02:00 [INF] HTTP GET /WeatherForecast responded 200 in 16.9192 ms
+2024-04-16 17:48:54.986 +02:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-04-16 17:48:55.019 +02:00 [INF] warn: 16/04/2024 17:48:55.018 CoreEventId.SensitiveDataLoggingEnabledWarning[10400] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-04-16 17:48:55.256 +02:00 [INF] info: 16/04/2024 17:48:55.256 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [u].[Id], [u].[CreatedAt], [u].[CreatedBy], [u].[DeleteAt], [u].[DeleteBy], [u].[Email], [u].[IsDeleted], [u].[LastName], [u].[Name], [u].[Password], [u].[UpdateAt], [u].[UpdateBy]
+      FROM [Users] AS [u]
+2024-04-16 17:48:55.328 +02:00 [INF] HTTP GET /api/Users responded 200 in 699.6984 ms
+2024-04-16 17:50:30.688 +02:00 [INF] info: 16/04/2024 17:50:30.688 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [u].[Id], [u].[CreatedAt], [u].[CreatedBy], [u].[DeleteAt], [u].[DeleteBy], [u].[Email], [u].[IsDeleted], [u].[LastName], [u].[Name], [u].[Password], [u].[UpdateAt], [u].[UpdateBy]
+      FROM [Users] AS [u]
+2024-04-16 17:50:30.690 +02:00 [INF] HTTP GET /api/Users responded 200 in 19.1365 ms

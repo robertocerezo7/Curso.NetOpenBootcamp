@@ -264,3 +264,14 @@ C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debu
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\obj\Debug\net8.0\Universi.96D3A93B.Up2Date
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\obj\Debug\net8.0\UniversityApiBackend.sourcelink.json
 C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Roberto\Documents\.NET\Backend\University\UniversityApiBackend\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll

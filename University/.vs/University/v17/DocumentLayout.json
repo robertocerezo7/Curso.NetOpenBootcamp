@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\logs\\log-20240416.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\logs\\log-20240416.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\models\\datamodels\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\models\\datamodels\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|c:\\users\\roberto\\documents\\.net\\backend\\university\\universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F00AF30-AB08-4372-97A4-749862A5C628}|UniversityApiBackend\\UniversityApiBackend.csproj|solutionrelative:universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,32 +79,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JwtHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Helpers\\JwtHelpers.cs",
-              "RelativeDocumentMoniker": "UniversityApiBackend\\Helpers\\JwtHelpers.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Helpers\\JwtHelpers.cs",
-              "RelativeToolTip": "UniversityApiBackend\\Helpers\\JwtHelpers.cs",
+              "Title": "log-20240416.txt",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\logs\\log-20240416.txt",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\logs\\log-20240416.txt",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\logs\\log-20240416.txt",
+              "RelativeToolTip": "UniversityApiBackend\\logs\\log-20240416.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:59:24.281Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T15:32:01.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\User.cs",
-              "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\User.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\User.cs",
-              "RelativeToolTip": "UniversityApiBackend\\Models\\DataModels\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:51:46.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\Student.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\Student.cs",
@@ -109,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\JwtSettings.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\JwtSettings.cs",
@@ -122,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\Course.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\Course.cs",
@@ -135,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Chapter.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\Chapter.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\Chapter.cs",
@@ -148,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\Category.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\Category.cs",
@@ -161,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\BaseEntity.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\BaseEntity.cs",
@@ -174,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Controllers\\UsersController.cs",
@@ -182,11 +177,12 @@
               "RelativeToolTip": "UniversityApiBackend\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:55:02.234Z"
+              "WhenOpened": "2024-04-14T14:55:02.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserTokens.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\UserTokens.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\UserTokens.cs",
@@ -199,7 +195,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:48:49.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\appsettings.json",
+              "RelativeToolTip": "UniversityApiBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T15:20:26.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\User.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Models\\DataModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:51:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Helpers\\JwtHelpers.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Helpers\\JwtHelpers.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Helpers\\JwtHelpers.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Helpers\\JwtHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:59:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
+              "RelativeToolTip": "UniversityApiBackend\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:37:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Controllers\\AccountController.cs",
@@ -212,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UserLogins.cs",
               "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Models\\DataModels\\UserLogins.cs",
               "RelativeDocumentMoniker": "UniversityApiBackend\\Models\\DataModels\\UserLogins.cs",
@@ -222,30 +283,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T15:51:48.004Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "UniversityApiBackend\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:48:49.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
-              "RelativeDocumentMoniker": "UniversityApiBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Documents\\.NET\\Backend\\University\\UniversityApiBackend\\Program.cs",
-              "RelativeToolTip": "UniversityApiBackend\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:37:16.29Z"
             }
           ]
         }
